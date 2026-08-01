@@ -7,11 +7,11 @@
 /* ---------- VARIABLES ---------- */
 :root {
     --bg: #fe3b0e;
-    --bg-alt: #24101f;
-    --bg-card: #2d1428;
-    --bg-card-2: #36192f;
+    --bg-alt: #f73206;
+    --bg-card: #24d8df;
+    --bg-card-2: #00cae0;
 
-    --deep: #8d1559;
+    --deep: #6deaf7;
     --mid: #641c56;
     --light: #e69ac3;
 
@@ -406,8 +406,8 @@ body {
     font-size: 0.78rem;
     letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: var(--text-muted);
-    background: #c52d7e;
+    color: #046772;
+    background: #6deaf7;
     border-bottom: 1px solid var(--border);
     font-weight: 400;
 }
